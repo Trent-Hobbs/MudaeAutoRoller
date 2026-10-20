@@ -1,4 +1,8 @@
-# Combined Mudae Autoroller
+# What is this?
+
+Do you have a no-life group of friends who are constantly rolling mudae on discord? I couldn't keep up with my friends + I was lazy so I created this python script to automatically roll in my friends discord server. It was designed to operate in a human-like manner so that I could keep it a secret.
+
+# Mudae Auto Roller
 
 A configurable Python script for scheduled Mudae rolls, character claims, and kakera collection on Discord. Supports multiple accounts, individual activity schedules, shared character and series preferences, and persistent claim tracking.
 
